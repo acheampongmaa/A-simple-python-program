@@ -1,7 +1,7 @@
-#Name: Queensly Kyerewaa Acheampongmaa Email:queensly.kyerewaa@azubiafrica.org Group:5
 
 
-#Tip calculato
+
+#Tip calculator
 
 # user enters the food charges
 food_charges = float(input('Enter your charges '))                                
